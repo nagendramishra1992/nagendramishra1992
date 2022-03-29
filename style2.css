@@ -1,0 +1,151 @@
+
+    
+
+  .parent_div{
+      width: 90vw;
+      height: 100vh;
+      background: #5ca2ce
+      linear-gradient(250deg, #164a6b 30% ,
+      transparent  50%);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  .child_div{
+      width: 79vw; 
+      height:90vh;
+      padding: 1px;
+      margin-top: 20px;
+      border-radius: 20px;
+      background: #fff  linear-gradient(-90deg, #56ade2 30% ,
+      transparent 0%);
+      background-size: 100% 100% ;
+      box-shadow: 0 10px 20px -5px #000;
+     
+  }
+  .first_div{
+      height: 75vh;
+      width: 55vw;
+      background: #fff;
+      margin-bottom: 22px;
+      margin-left: 10px;
+      padding: 2px;
+      
+      
+      
+  }
+  /* .second_div{
+    height: 244px;
+    width: 37vw;
+    background: #56ade2;
+    right: 35px;
+    border-radius: 5px;
+    position: absolute;
+    padding-bottom: 250px;
+    display: block;
+    margin-left: 0px;
+    margin-right: auto;
+   
+    
+
+} */
+.logo{
+    height: 30px;
+    width: 180px;
+    margin-top: 80px;
+    margin-left: 60px;
+}
+.button{
+background-color: blue;
+color: #fff;
+width: 250px;
+height: 30px;
+border-radius: 15px;
+margin-left: 60px;
+}
+.box{
+  
+
+width: 250px;
+height: 30px;
+border-radius: 15px;
+border-color: rgba(249, 249, 252,0.4);
+
+opacity: 0.4;
+margin-left: 60px;
+border-style:ridge ;
+}
+.rem{
+    text-align: center;
+    margin-right: 550px;
+    margin-top: -20px;
+    font-size: 8px;
+    font-size: 8px;
+}
+p{
+    margin-left: 60px;
+    font-size: 10px;
+    opacity: 0.4;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.check{
+    margin-left: 60px;
+    opacity: 0.4;
+}
+.forget{
+    font-size: 10px;
+    color: blue;
+    margin-left: 115px;
+    opacity: 0.4;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.photo{
+    height: 80vh;
+    margin-left: 420px;
+    margin-top: -110px;
+}
+.table{
+    border: 0px none;
+    margin-top: -16px;
+   margin-left: -1px;
+   height: 35px;
+   color: #fff;
+   background-color: #56ade2;
+   align-self:baseline;
+   border-collapse: solid;
+   padding: 3px;
+   padding-left: 2px;
+  
+  
+   
+}
+td, tr {
+    border-right: 1px solid #dddddd;
+    text-align: left;
+    padding: 3px;
+  
+  }
+  .login{
+     color: fff;
+     margin-left: 930px;
+     margin-top: 12px;
+  }
+
+  .alog{
+    margin-left: 730px;
+    margin-top: -300px;
+   
+    -ms-transform: rotate(deg); /* IE 9 */
+    -ms-transform-origin: 20% 40%; /* IE 9 */
+    transform: rotate(90deg);
+    transform-origin: 20% 40%;
+    /* color: white; */
+    text-shadow:
+     -1px -1px 0#fff,  
+      1px -1px 0 #fff,
+      -1px 1px 0 #fff,
+       1px 1px 0 ;
+    
+}
+ 

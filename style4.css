@@ -1,0 +1,147 @@
+
+    
+
+  .parent_div{
+    width: 90vw;
+    height: 100vh;
+    background: #5ca2ce
+    linear-gradient(250deg, #164a6b 30% ,
+    transparent  50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child_div{
+    width: 79vw;
+    height:90vh;
+    padding: 1px;
+    margin-top: 10px;
+    border-radius: 20px;
+    background: #fff  linear-gradient(-90deg, #56ade2 30% ,
+    transparent 0%);
+    background-size: 100% 100% ;
+    box-shadow: 0 10px 20px -5px #000;
+   
+}
+.first_div{
+    height: 80vh;
+    width: 55vw;
+    background: #fff;
+    margin-bottom: 25px;
+    margin-left: 12px;
+    padding: 2px;
+    
+    
+    
+}
+/* .second_div{
+  height: 244px;
+  width: 37vw;
+  background: #56ade2;
+  right: 35px;
+  border-radius: 5px;
+  position: absolute;
+  padding-bottom: 250px;
+  display: block;
+  margin-left: 0px;
+  margin-right: auto;
+ 
+  
+
+} */
+.logo{
+  height: 30px;
+  width: 180px;
+  margin-top: 2px;
+  margin-left: 120px;
+}
+.button{
+background-color: #164a6b;
+color: #fff;
+width: 290px;
+height: 30px;
+border-radius: 15px;
+margin-left: 120px;
+}
+.box{
+  /* background-color: none;
+  display: hidden; */
+/* color: #fff; */
+width: 290px;
+height: 22px;
+border-radius: 20px;
+opacity: 0.3;
+border-color: rgba(249, 249, 252,0.4);
+margin-left: 120px;
+border-style:ridge ;
+}
+.rem{
+  text-align: center;
+  margin-right: 430px;
+  margin-top: -20px;
+  font-size: 8px;
+  font-size: 8px;
+}
+p{
+  margin-left: 130px;
+  font-size: 12px;
+  opacity: 0.5;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.check{
+  margin-left: 120px;
+  opacity: 0.5;
+}
+.forget{
+  font-size: 10px;
+  color: blue;
+  margin-left: 160px;
+  opacity: 0.4;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.photo{
+  height: 80vh;
+  margin-left: 420px;
+  margin-top: -60px;
+}
+.table{
+  border: 2px none;
+  margin-top: -22px;
+ margin-left: -1px;
+ height: 35px;
+ color: #fff;
+ background-color: #56ade2;
+ align-self: start;
+ border-collapse: solid;
+ padding: 2px;
+
+
+ 
+}
+td, th {
+  border-right: 1px solid #dddddd;
+  text-align: left;
+  padding: 3px;
+}
+.login{
+   color: fff;
+   margin-left: 930px;
+   margin-top: 10px;
+}
+
+.alog{
+  margin-left: 730px;
+  margin-top: -400px;
+ 
+  -ms-transform: rotate(deg); /* IE 9 */
+  -ms-transform-origin: 20% 40%; /* IE 9 */
+  transform: rotate(90deg);
+  transform-origin: 20% 40%;
+  /* color: white; */
+  text-shadow:
+   -1px -1px 0#fff,  
+    1px -1px 0 #fff,
+    -1px 1px 0 #fff,
+     1px 1px 0 ;
+  
+}
